@@ -1,14 +1,21 @@
 ##项目汇总
 
+#### Dribbbler项目使用
+1. Yahoo weather Loading [link][1]
+
+[1]:https://github.com/yeahdongcn/Yahoo-Weather-Loading-Indicator
 
 #### UI相关
 1. 有划出效果的TabbarMenu [JCMenu][A1] 
 2. 下拉刷新 [EGOTableViewPullRefresh][A2]
 3. Loading效果 [MZLoading][A3]
+4. scroll view 下拉背景虚化[core-background][A4]
 
 [A1]:https://github.com/jbaptistecastro/JCMenu
 [A2]:https://github.com/enormego/EGOTableViewPullRefresh
 [A3]:https://github.com/SergheiMazur/MZLoading
+[A4]:https://github.com/justinmfischer/core-background
+
 -------
 
 #### 网络相关
@@ -31,3 +38,4 @@
 
 [D1]:https://github.com/jasperblues/Typhoon
 -------
+
