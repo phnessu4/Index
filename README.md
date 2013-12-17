@@ -6,11 +6,13 @@
 2. 下拉刷新 [EGOTableViewPullRefresh][A2]
 3. Loading效果 [MZLoading][A3]
 4. 分析图片颜色的应用 [TDImageColors][A4]
+5. 自定义tabbar [RKTabView][A5]
 
 [A1]:https://github.com/jbaptistecastro/JCMenu
 [A2]:https://github.com/enormego/EGOTableViewPullRefresh
 [A3]:https://github.com/SergheiMazur/MZLoading
 [A4]:https://github.com/timominous/TDImageColors
+[A5]:https://github.com/RafaelKayumov/RKTabView
 -------
 
 #### 网络相关
