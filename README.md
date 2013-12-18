@@ -11,7 +11,8 @@
 3. Loading效果 [MZLoading][A3]
 4. 分析图片颜色的应用 [TDImageColors][A4]
 5. 自定义tabbar [RKTabView][A5]
-6. scroll view 下拉背景虚化[core-background][A4]
+6. scroll view 下拉背景虚化[core-background][A6]
+7. 图片处理集合 [NYXImagesKit][A7]
 
 [A1]:https://github.com/jbaptistecastro/JCMenu
 [A2]:https://github.com/enormego/EGOTableViewPullRefresh
@@ -19,7 +20,7 @@
 [A4]:https://github.com/timominous/TDImageColors
 [A5]:https://github.com/RafaelKayumov/RKTabView
 [A6]:https://github.com/justinmfischer/core-background
-
+[A7]:https://github.com/Nyx0uf/NYXImagesKit
 -------
 
 #### 网络相关
