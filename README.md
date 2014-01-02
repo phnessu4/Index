@@ -14,6 +14,8 @@
 5. 自定义tabbar [RKTabView][A5]
 6. scroll view 下拉背景虚化[core-background][A6]
 7. 图片处理集合 [NYXImagesKit][A7]
+8. ios7风格的界面锁 [LTHPasscodeViewController][A8]
+9. UILable 实现的计时器 [TTCounterLabel][A9]
 
 [A1]:https://github.com/jbaptistecastro/JCMenu
 [A2]:https://github.com/enormego/EGOTableViewPullRefresh
@@ -22,6 +24,9 @@
 [A5]:https://github.com/RafaelKayumov/RKTabView
 [A6]:https://github.com/justinmfischer/core-background
 [A7]:https://github.com/Nyx0uf/NYXImagesKit
+[A8]:https://github.com/rolandleth/LTHPasscodeViewController
+[A9]:https://github.com/TriggerTrap/TTCounterLabel
+
 -------
 
 #### 网络相关
@@ -43,10 +48,12 @@
 1. 依赖注入的Objective-c框架 [Typhoon][D1]
 2. MAC和IOS下,客户端调用restful风格接口的框架 [RestKit][D2]
 3. MAC下自动更新的控件 [Sparkle][D3]
+4. 各种开源算法的OC实现 [EKAlgorithms][D4]
 
 [D1]:https://github.com/jasperblues/Typhoon
 [D2]:https://github.com/RestKit/RestKit
 [D3]:https://github.com/andymatuschak/Sparkle
+[D4]:https://github.com/EvgenyKarkan/EKAlgorithms
 -------
 
 #### apple 源码
