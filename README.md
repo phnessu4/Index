@@ -85,6 +85,9 @@
 -------
 
 #### xcode plugin
+	#system path 
+	Library/Application Support/Developer/Shared/Xcode
+
 1. xcode 插件管理器 [Alcatraz][G1]
 2. 代码提示,可以从方法名中间匹配. [Fuzzy Autocomplete][G2]
 3. 颜色提示 [ColorSense][G3]
