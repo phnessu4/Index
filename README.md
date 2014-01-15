@@ -73,6 +73,7 @@
 6. 应用诊断 [crittercism][F6]
 7. 综合服务, 统计,支付,性能分析,地理位置 [urbanairship][F7]
 8. 综合服务, 推送,统计,云服务器. 免费账户每月100万推送.[parse][F8]
+9. 云同步服务 [syncbits][F9]
  
 [F1]:pagodabox.com
 [F2]:http://codepen.io
@@ -82,6 +83,7 @@
 [F6]:https://www.crittercism.com
 [F7]:http://urbanairship.com
 [F8]:https://parse.com
+[F9]:http://syncbits.com
 -------
 
 #### xcode plugin
@@ -107,3 +109,9 @@
 [G7]:http://github.so/XAlign/
 [G8]:https://github.com/kattrali/cocoapods-xcode-plugin.git
 [G9]:https://github.com/payliu/XcodePlus
+
+
+#### 原型设计
+1. 使用Quartz Composer制作原型 [facebook origami][H1]
+
+[H1]:http://facebook.github.io/origami/
