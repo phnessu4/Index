@@ -40,8 +40,21 @@
 #### 工程相关
 
 1. 分发IPA的工具 [EasyToMore][C1] 
+2. iPhone模拟器应用管理 [SimPholders][C2]
+3. 查看Core Data records [Liya][C3]
+4. Quicklook插件，用以预览app和配置信息 [CocoaDeveloper Quicklook Plugin ][C4]
+5. iOS测试平台 [Testflight][C5]
+6. ios多语言众包翻译平台 [Linguan][C6]
+7. 跟踪兑换码 [Tokens][C7]
 
 [C1]:https://github.com/qdvictory/EasyToMore.git
+[C2]:http://simpholders.com/
+[C3]:https://itunes.apple.com/us/app/liya/id455484422?ls=1&mt=12
+[C4]:http://kfi-apps.com/plugins/ipaql/
+[C5]:https://www.testflightapp.com/
+[C6]:http://www.peerassembly.com/linguan.html
+[C7]:http://usetokens.com/
+
 -------
 
 #### 第三方框架
@@ -51,12 +64,14 @@
 3. MAC下自动更新的控件 [Sparkle][D3]
 4. 各种开源算法的OC实现 [EKAlgorithms][D4]
 5. xcode剪贴板代码汇总 Xcode-Snippets [Xcode-Snippets][D5]
+6. 开源的跨平台开发框架 [polycode][D6]
 
 [D1]:https://github.com/jasperblues/Typhoon
 [D2]:https://github.com/RestKit/RestKit
 [D3]:https://github.com/andymatuschak/Sparkle
 [D4]:https://github.com/EvgenyKarkan/EKAlgorithms
 [D5]:https://github.com/mattt/Xcode-Snippets
+[D6]:http://polycode.org
 -------
 
 #### apple 源码
@@ -103,13 +118,13 @@
 8. cocodpods manager for xcode [cocoapods-xcode-plugin][G8]
 9. 删除当前行 [XcodePlus][G9]
 
-[G1]:http://mneorr.github.io/Alcatraz/
+[G1]:https://github.com/supermarin/Alcatraz
 [G2]:https://github.com/chendo/FuzzyAutocompletePlugin
 [G3]:https://github.com/omz/ColorSense-for-Xcode
 [G4]:https://github.com/onevcat/VVDocumenter-Xcode
 [G5]:https://github.com/ksuther/KSImageNamed-Xcode
 [G6]:https://github.com/robbiehanson/XcodeColors
-[G7]:http://github.so/XAlign/
+[G7]:https://github.com/qfish/XAlign
 [G8]:https://github.com/kattrali/cocoapods-xcode-plugin.git
 [G9]:https://github.com/payliu/XcodePlus
 
@@ -123,3 +138,4 @@
 1. bootstarp UI [Flat-UI][I1]
 
 [I1]:http://designmodo.github.io/Flat-UI/
+
