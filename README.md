@@ -131,8 +131,10 @@
 
 #### 原型设计
 1. 使用Quartz Composer制作原型 [facebook origami][H1]
+2. DesignBoard 协作沟通工具,设计版本管理
 
 [H1]:http://facebook.github.io/origami/
+[H2]:http://designboard.cc
 
 #### 网站资源
 1. bootstarp UI [Flat-UI][I1]
