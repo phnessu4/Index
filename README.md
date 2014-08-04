@@ -46,6 +46,7 @@
 5. iOS测试平台 [Testflight][C5]
 6. ios多语言众包翻译平台 [Linguan][C6]
 7. 跟踪兑换码 [Tokens][C7]
+8. bug 代码检测 [fauxpasapp][C8]
 
 [C1]:https://github.com/qdvictory/EasyToMore.git
 [C2]:http://simpholders.com/
@@ -54,6 +55,7 @@
 [C5]:https://www.testflightapp.com/
 [C6]:http://www.peerassembly.com/linguan.html
 [C7]:http://usetokens.com/
+[C8]:http://fauxpasapp.com/beta/
 
 -------
 
