@@ -17,6 +17,12 @@
 8. ios7风格的界面锁 [LTHPasscodeViewController][A8]
 9. UILable 实现的计时器 [TTCounterLabel][A9]
 10. FlatUIKit 扁平化风格的UI [FlatUIKit][A10]
+11. PhotoStack 相册形式显示图片 [PhotoStack][A11]
+12. 背景自动晃动效果 [JSAnimatedImagesView][A12]
+13. ken burns effect 图片效果 [CPKenburnsView][A13]
+14. 文字闪光效果[Shimmer][A14]
+15. 菜单左右滑动的效果[MDMenuViewController][A15]
+16. storehouse下拉刷新效果[CBStoreHouseRefreshControl][A16]
 
 [A1]:https://github.com/jbaptistecastro/JCMenu
 [A2]:https://github.com/enormego/EGOTableViewPullRefresh
@@ -28,6 +34,13 @@
 [A8]:https://github.com/rolandleth/LTHPasscodeViewController
 [A9]:https://github.com/TriggerTrap/TTCounterLabel
 [A10]:https://github.com/Grouper/FlatUIKit
+[A11]:https://github.com/tomlongo/PhotoStack/
+[A12]:https://github.com/JaviSoto/JSAnimatedImagesView
+[A13]:https://github.com/muukii0803/CPKenburnsView
+[A14]:https://github.com/facebook/Shimmer
+[A15]:https://github.com/mohammedDehairy/MDMenuViewController
+[A16]:https://github.com/coolbeet/CBStoreHouseRefreshControl.git
+
 -------
 
 #### 网络相关
@@ -67,6 +80,7 @@
 4. 各种开源算法的OC实现 [EKAlgorithms][D4]
 5. xcode剪贴板代码汇总 Xcode-Snippets [Xcode-Snippets][D5]
 6. 开源的跨平台开发框架 [polycode][D6]
+7. facebook的pop动画引擎[pop][D7]
 
 [D1]:https://github.com/jasperblues/Typhoon
 [D2]:https://github.com/RestKit/RestKit
@@ -74,6 +88,8 @@
 [D4]:https://github.com/EvgenyKarkan/EKAlgorithms
 [D5]:https://github.com/mattt/Xcode-Snippets
 [D6]:http://polycode.org
+[D7]:https://github.com/facebook/pop
+
 -------
 
 #### apple 源码
