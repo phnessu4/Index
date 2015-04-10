@@ -151,7 +151,7 @@
 
 #### 原型设计
 1. 使用Quartz Composer制作原型 [facebook origami][H1]
-2. DesignBoard 协作沟通工具,设计版本管理
+2. DesignBoard 协作沟通工具,设计版本管理[designboard][H2]
 
 [H1]:http://facebook.github.io/origami/
 [H2]:http://designboard.cc
@@ -164,3 +164,8 @@
 [I1]:http://designmodo.github.io/Flat-UI/
 [I2]:https://ui8.net/product/bolt-ui-kit
 [I3]:http://www.invisionapp.com/tethr
+
+#### 工具
+1. 界面调试工具[reveal][G1]
+
+[G1]:http://revealapp.com
