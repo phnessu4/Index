@@ -166,6 +166,6 @@
 [I3]:http://www.invisionapp.com/tethr
 
 #### 工具
-1. 界面调试工具[reveal][G1]
+1. 界面调试工具[reveal][J1]
 
-[G1]:http://revealapp.com
+[J1]:http://revealapp.com
